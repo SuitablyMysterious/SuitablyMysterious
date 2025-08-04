@@ -24,8 +24,11 @@ I will sometimes use Artificial Intelligence to help refine or brainstorm ideas 
 
 - [Hard Fork](https://www.nytimes.com/column/hard-fork) - I am an avid listener and, while I do not agree with all opinions expressed here, I find it interesting to listen to
 
-### Articles List:
+### Useful Tools:
 
+- `n8n` - I use this for all kinds of automation, you can see the results in the section below
+
+### Articles List (generated with n8n):
 
 - [chmod 777 future.sh](https://medium.com/@haydengpt/chmod-777-future-sh-645035b67419) - Hayden Baillio
   > This is a very amusing explanation of AI overcomplication
