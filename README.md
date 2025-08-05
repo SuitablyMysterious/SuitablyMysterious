@@ -32,5 +32,5 @@ I will sometimes use Artificial Intelligence to help refine or brainstorm ideas 
 
 - [chmod 777 future.sh](https://medium.com/@haydengpt/chmod-777-future-sh-645035b67419) - Hayden Baillio
   > This is a very amusing explanation of AI overcomplication
-[Context Engineering vs Prompt Engineering](https://medium.com/data-science-in-your-pocket/context-engineering-vs-prompt-engineering-379e9622e19d) - Mehul Gupta
+- [Context Engineering vs Prompt Engineering](https://medium.com/data-science-in-your-pocket/context-engineering-vs-prompt-engineering-379e9622e19d) - Mehul Gupta
   > An interesting explanation of Prompt vs Context engineering
