@@ -27,6 +27,7 @@ I will sometimes use Artificial Intelligence to help refine or brainstorm ideas 
 ### Useful Tools:
 
 - `n8n` - I use this for all kinds of automation, you can see the results in the section below
+- `tailscale` - I use this as my swiss army knife for hosting, ssh and vpns
 
 ### Articles List (generated with n8n):
 
