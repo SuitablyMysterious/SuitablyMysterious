@@ -1,6 +1,6 @@
 ## Me:
 
-I'm a CS student who doesnt seem to understand that sometimes, the simplest route is better than the overcomplicated one. I will often start writing code only to find that the tool I am writing alredy exists in 5 different places. I am quite proficient in python, decent in HTML/CSS and bash, could be much better at JavaScript am learning how to write parsers using the lark framework in order to write my own language. I would like to learn rust and many other languages.
+I'm a CS student who doesn't seem to understand that sometimes, the simplest route is better than the overcomplicated one. I will often start writing code only to find that the tool I am writing alredy exists in 5 different places. I am quite proficient in python, decent in HTML/CSS and bash, could be much better at JavaScript am learning how to write parsers using the lark framework in order to write my own language. I would like to learn rust and many other languages.
 
 ## Projects:
 
