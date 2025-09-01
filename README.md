@@ -1,4 +1,4 @@
-![SuitablyMysterious](SuitablyMysterious Banner.png)
+![SuitablyMysterious](SuitablyMysteriousBanner.png)
 
 I’m a computer science student who sometimes takes the overcomplicated route when a simpler solution would work just as well. More than once, I’ve started building a tool only to discover it already exists in several other GitHub repos. It is still a useful learning exercise though.
 
