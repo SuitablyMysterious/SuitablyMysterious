@@ -17,7 +17,7 @@ Comment on one of my repos, tagging me with @SuitablyMysterious. Also, I admire 
 
 ## Skills:
 
-- **Languages:** Python, HTML/CSS, Bash, JavaScript (learning)
+- **Languages:** Python, HTML/CSS, Bash, Rust (learning)
 - **Tools & Platforms:** Git, GitHub, n8n, Tailscale
 - **Areas of Interest:** Language design, automation, backend systems
 
