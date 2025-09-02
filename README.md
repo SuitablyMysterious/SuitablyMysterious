@@ -27,6 +27,7 @@ Comment on one of my repos, tagging me with @SuitablyMysterious. Also, I admire 
 
 ### Active Development:
 - [Library System](https://github.com/The-CS-Nerds/Library-System) – Improving our library’s book, loan, and user management system to be more efficient than the current one. Developed in collaboration with [HippoProgrammer](https://github.com/HippoProgrammer).
+- [Wild Cosmos Roster Builder](github.com/the-cs-nerds/wild-cosmos-roster-builder) - A roster builder for the tabletop game Wild Cosmos which is soon to be published (<5y)
 
 ### Inactive Development:
 - [better-settings](https://github.com/SuitablyMysterious/better-settings) – Simplifying [JigglyJeff](https://github.com/JigglyJeff)’s MakeCode Arcade code. May not be fully functional.
