@@ -13,7 +13,7 @@ How on earth did you find this????
 
 #### People who don't know me IRL:
 
-Comment on one of my repos, tagging me with @SuitablyMysterious. Also, I admire your enthusiasm for a random developer you found on GitHub.
+Comment on one of my repos, tagging me with @SuitablyMysterious or email [contact@suitablymysterious.dpdns.org](mailto:contact@suitablymysterious.dpdns.org) and hope my Cloudflare email forwarding rules work. Also, I admire your enthusiasm for a random developer you found on GitHub.
 
 ## Skills:
 
@@ -55,12 +55,5 @@ I am mindful of the environmental impact of AI and aim to use it in moderation a
 
 ## Useful Tools:
 
-- `n8n` – My go-to platform for automation (see results in the section below)
+- `n8n` – My go-to platform for automation
 - `tailscale` – My “Swiss Army knife” for hosting, SSH, and VPNs
-
-## Articles List (generated with n8n)
-
-- [chmod 777 future.sh](https://medium.com/@haydengpt/chmod-777-future-sh-645035b67419) – Hayden Baillio  
-  > This is a very amusing explanation of AI overcomplication
-- [Context Engineering vs Prompt Engineering](https://medium.com/data-science-in-your-pocket/context-engineering-vs-prompt-engineering-379e9622e19d) – Mehul Gupta  
-  > An interesting explanation of Prompt vs Context engineering
