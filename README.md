@@ -37,7 +37,7 @@ Comment on one of my repos, tagging me with @SuitablyMysterious or email [contac
 
 ## AI Disclaimer:
 
-I will occasionally use AI tools (usuallt ChatGPT or Claude) to refine or brainstorm ideas I’ve already developed. Before including AI-generated content, I review it for errors, make adjustments where needed, and verify its sources.  
+I will occasionally use AI tools (usually ChatGPT or Claude) to refine or brainstorm ideas I’ve already developed. Before including AI-generated content, I review it for errors, make adjustments where needed, and verify its sources.  
 
 I also use AI to help identify and debug issues more quickly.  
 
