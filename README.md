@@ -57,3 +57,5 @@ I am mindful of the environmental impact of AI and aim to use it in moderation a
 
 - `n8n` – My go-to platform for automation
 - `tailscale` – My “Swiss Army knife” for hosting, SSH, and VPNs
+
+Note: As a member of the LGBTQIA+ community, I do not accept any form of phobia towards any person based on who they are
