@@ -1,5 +1,8 @@
 ![SuitablyMysterious](SuitablyMysteriousBanner.png)
 
+
+***DONT USE ANY OF @HippoProgrammer's CODE HE TAKES FORKS OF ALL OF MY REPOS TO ANNOY ME***
+
 I’m a computer science student who sometimes takes the overcomplicated route when a simpler solution would work just as well. More than once, I’ve started building a tool only to discover it already exists in several other GitHub repos. It is still a useful learning exercise though.
 
 I’m proficient in **Python**, comfortable with **HTML/CSS** and **Bash**, working to improve my **JavaScript**, and currently learning to build parsers for a custom markdown flavour .
