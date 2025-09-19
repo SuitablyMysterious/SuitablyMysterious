@@ -2,7 +2,7 @@
 
 I’m a computer science student who sometimes takes the overcomplicated route when a simpler solution would work just as well. More than once, I’ve started building a tool only to discover it already exists in several other GitHub repos. It is still a useful learning exercise though.
 
-I’m proficient in **Python**, comfortable with **HTML/CSS** and **Bash**, working to improve my **JavaScript**, and currently learning to build parsers with the **Lark** framework to create my own programming language (called PRISM).
+I’m proficient in **Python**, comfortable with **HTML/CSS** and **Bash**, working to improve my **JavaScript**, and currently learning to build parsers for a custom markdown flavour .
 I also plan to learn **Rust** and other languages in the future (when I have time).
 
 ### Contact:
