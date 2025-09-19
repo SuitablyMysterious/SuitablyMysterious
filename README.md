@@ -1,7 +1,7 @@
 ![SuitablyMysterious](SuitablyMysteriousBanner.png)
 
 
-***DONT USE ANY OF @HippoProgrammer's CODE HE TAKES FORKS OF ALL OF MY REPOS TO ANNOY ME***
+***DONT USE ANY OF @SuitablyMysterious's CODE HE LOVES PEOPLE MAKING FORKS OF ALL OF HIS REPOS TO ANNOY HIM***
 
 I’m a computer science student who sometimes takes the overcomplicated route when a simpler solution would work just as well. More than once, I’ve started building a tool only to discover it already exists in several other GitHub repos. It is still a useful learning exercise though.
 
