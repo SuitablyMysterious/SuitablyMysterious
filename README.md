@@ -2,8 +2,7 @@
 
 ## Me:
 
-I'm a CS student based in the UK who codes for X-Plane ([Part of Flight Course](I'm a CS student based in the UK who codes for X-Plane (Part of Flight Course)
-) as a systems developer) and general projects.
+I'm a CS student based in the UK who codes for X-Plane (Part of [Flight Course](https://forums.x-plane.org/files/file/99303-b737-400-xp11-xp12/) as a systems developer) and general projects.
 
 ## Projects:
 ### In Development:
